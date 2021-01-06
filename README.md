@@ -10,3 +10,6 @@ basic_functions.py
  
  resize_cropping.py
   - image resizing and cropping
+ 
+ blank_images_texts_shapes.py
+  - creating circle, rectangle, lines and text on a blank image
